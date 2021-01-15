@@ -23,5 +23,6 @@ objectives:
 * Use various pre-trained NLP text embedding models from TensorFlow Hub
 * Perform transfer learning to fine-tune models on your own text data
 * Visualize model performance metrics with TensorBoard
+
 (Will be updated soon)
 
